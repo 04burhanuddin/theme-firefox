@@ -12,12 +12,12 @@
 - Agar **Toolbar** firefox tidak terlalu tinggi, klik kanan pada toolbar -> costomize Toolbar -> Pada bagian pojok kiri bawah pilih **Density** -> menjadi **compact**
 - Silahkan drag menu sesuai kebutuhan
 - Jika ada masalah pada background toolbar sialahkan install theme kesukaan anda saya menggunakan `gruvbox dark-hard` atau ganti background pada
-  
-  ```css
-  #navigator-toolbox-background {
-      --lwt-accent-color: #1D2021;
+
+```css
+#navigator-toolbox-background {
+   --lwt-accent-color: #1D2021;
    }
-  ```
+```
 
 ## Live Debuging
 
